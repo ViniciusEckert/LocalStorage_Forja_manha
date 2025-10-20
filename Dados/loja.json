@@ -3,60 +3,60 @@
         "id": 1,
         "desc": "Camisa Vegano",
         "imagem": "../Dados/Imagens/camisa1.jpg",
-        "preco": "59.9"
+        "preco": 59.9
     },
     {
         "id": 2,
         "desc": "Camisa Inimigo da receita",
         "imagem": "../Dados/Imagens/camisa2.jpg",
-        "preco": "65.9"
+        "preco": 65.9
     },
     {
         "id": 3,
         "desc": "Camisa University",
         "imagem": "../Dados/Imagens/camisa3.jpg",
-        "preco": "59.9"
+        "preco": 59.9
     },
     {
         "id": 4,
         "desc": "Camisa Docinho",
         "imagem": "../Dados/Imagens/camisa4.jpg",
-        "preco": "59.9"
+        "preco": 59.9
     },
     {
         "id": 5,
         "desc": "Camisa Lagoste",
         "imagem": "../Dados/Imagens/camisa5.jpg",
-        "preco": "59.9"
+        "preco": 59.9
     },
     {
         "id": 6,
         "desc": "Camisa Ciencia da computação",
         "imagem": "../Dados/Imagens/camisa6.jpg",
-        "preco": "64.9"
+        "preco": 64.9
     },
     {
         "id": 7,
         "desc": "Camisa Constancia",
         "imagem": "../Dados/Imagens/camisa7.jpg",
-        "preco": "69.9"
+        "preco": 69.9
     },
     {
         "id": 8,
         "desc": "Camisa Ateu",
         "imagem": "../Dados/Imagens/camisa8.jpg",
-        "preco": "59.9"
+        "preco": 59.9
     },
     {
         "id": 9,
         "desc": "Camisa Michael J",
         "imagem": "../Dados/Imagens/camisa9.jpg",
-        "preco": "56.9"
+        "preco": 56.9
     },
     {
         "id": 10,
         "desc": "Camisa Makita",
         "imagem": "../Dados/Imagens/camisa10.jpg",
-        "preco": "70.0"
+        "preco": 70.0
     }
 ]
